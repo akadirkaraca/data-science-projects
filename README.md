@@ -1,1 +1,1 @@
-# Data-Science-Samples
+# Data Science Samples
